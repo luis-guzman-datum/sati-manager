@@ -9,4 +9,9 @@ import { Component } from '@angular/core';
 })
 export class LoginComponent {
 
+  //metodo para login con mensaje
+  login(){
+    console.log('Hola');
+  }
+
 }
